@@ -42,4 +42,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- Configure Network Lab
+- <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>
