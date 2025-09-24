@@ -11,10 +11,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Design                                | <a href="https://drive.google.com/">Configure Network Lab</a>|
-| Network Traffic Monitoring                    | <a href="https://drive.google.com/">Configure Network Lab</a>|
-| Wireless Networking                           | <a href="https://drive.google.com/">Configure Network Lab</a>|
-| Cisco VoIP                                    | <a href="https://drive.google.com/">Configure Network Lab</a>|
+| Network Design                                | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
+| Network Traffic Monitoring                    | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
+| Wireless Networking                           | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
+| Cisco VoIP                                    | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
 
 
 ## Tools
