@@ -11,10 +11,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Design                                | <a href="https://drive.google.com/drive/folders/172RJeqzv66g-QST8KSQKCEq4Y37CzKlu?usp=drive_link">Configure Network Lab</a>|
-| Network Traffic Monitoring                    | <a href="https://drive.google.com/drive/folders/172RJeqzv66g-QST8KSQKCEq4Y37CzKlu?usp=drive_link">Configure Network Lab</a>|
-| Wireless Networking                           | <a href="https://drive.google.com/drive/folders/172RJeqzv66g-QST8KSQKCEq4Y37CzKlu?usp=drive_link">Configure Network Lab</a>|
-| Cisco VoIP                                    | <a href="https://drive.google.com/drive/folders/172RJeqzv66g-QST8KSQKCEq4Y37CzKlu?usp=drive_link">Configure Network Lab</a>|
+| Network Design                                | <a href="https://drive.google.com/">Configure Network Lab</a>|
+| Network Traffic Monitoring                    | <a href="https://drive.google.com/">Configure Network Lab</a>|
+| Wireless Networking                           | <a href="https://drive.google.com/">Configure Network Lab</a>|
+| Cisco VoIP                                    | <a href="https://drive.google.com/">Configure Network Lab</a>|
 
 
 ## Tools
