@@ -11,10 +11,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Design                                | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
-| Network Traffic Monitoring                    | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
-| Wireless Networking                           | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
-| Cisco VoIP                                    | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
+| Network Design & Traffic Monitoring                                | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
+| Wireless Networking & Cisco VoIP                   | <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>|
+| NMAP with Wireshark                           | <a href="https://github.com/scott-stout83/NMAP-with-Wireshark">NMAP with Wireshark</a>|
+
 
 
 ## Tools
@@ -43,3 +43,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/scott-stout83/Configure-Network-Lab/blob/main/README.md">Configure Network Lab</a>
+- <a href="https://github.com/scott-stout83/NMAP-with-Wireshark">NMAP with Wireshark</a>
